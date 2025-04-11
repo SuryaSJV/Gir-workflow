@@ -78,6 +78,8 @@ git tag -a v1.0 -m "Initial release with features, .gitignore, and documentation
 git push origin v1.0
 ```
 
+![alt text](<Screenshot 2025-04-11 153451.png>)
+
 ✅ Final Files in Repository
 ```
 file1.txt → from main
